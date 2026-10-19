@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="bsk github Banner.png"
+       alt="Shravan Kumar Banda — Engineering, AI/ML, Cybersecurity and Applied R&D"
+       width="100%" />
+</p>
 <h1 align="center">Shravan Kumar Banda</h1>
 
 <p align="center">
